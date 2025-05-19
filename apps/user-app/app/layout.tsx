@@ -7,8 +7,8 @@ import { AppbarClient } from "../components/AppbarClient";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Wallet",
-  description: "Simple wallet app",
+  title: "PayApp clone",
+  description: "Simple payApp",
 };
 
 export default function RootLayout({
